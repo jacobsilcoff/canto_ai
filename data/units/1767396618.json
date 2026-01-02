@@ -1,0 +1,337 @@
+{
+  "title": "Describing My Day as a Doctor",
+  "topic_description": "Learn how to talk about a typical day at work as a doctor",
+  "conversation": [
+    {
+      "id": 0,
+      "speaker": "A",
+      "cantonese": "我今日喺醫院做咗好多嘢。",
+      "english_natural": "I did a lot at the hospital today.",
+      "chunks": [
+        {
+          "cantonese": "我",
+          "english": "I",
+          "jyutping": "ngo5",
+          "audio_rel_path": "1767396618/chunk_0_0.mp3"
+        },
+        {
+          "cantonese": "今日",
+          "english": "today",
+          "jyutping": "gam1jat6",
+          "audio_rel_path": "1767396618/chunk_0_1.mp3"
+        },
+        {
+          "cantonese": "喺",
+          "english": "at",
+          "jyutping": "hai2",
+          "audio_rel_path": "1767396618/chunk_0_2.mp3"
+        },
+        {
+          "cantonese": "醫院",
+          "english": "the hospital",
+          "jyutping": "ji1jyun2",
+          "audio_rel_path": "1767396618/chunk_0_3.mp3"
+        },
+        {
+          "cantonese": "做咗",
+          "english": "did",
+          "jyutping": "zou6 zo2",
+          "audio_rel_path": "1767396618/chunk_0_4.mp3"
+        },
+        {
+          "cantonese": "好多",
+          "english": "a lot",
+          "jyutping": "hou2do1",
+          "audio_rel_path": "1767396618/chunk_0_5.mp3"
+        },
+        {
+          "cantonese": "嘢",
+          "english": "things",
+          "jyutping": "je5",
+          "audio_rel_path": "1767396618/chunk_0_6.mp3"
+        },
+        {
+          "cantonese": "。",
+          "english": "(period)",
+          "jyutping": "None",
+          "audio_rel_path": "1767396618/chunk_0_7.mp3"
+        }
+      ],
+      "jyutping": "ngo5 gam1jat6 hai2 ji1jyun2 zou6 zo2 hou2do1 je5 None",
+      "audio_rel_path": "1767396618/sent_0.mp3"
+    },
+    {
+      "id": 1,
+      "speaker": "B",
+      "cantonese": "咁忙唔忙呀？",
+      "english_natural": "Were you busy?",
+      "chunks": [
+        {
+          "cantonese": "咁",
+          "english": "so",
+          "jyutping": "gam3",
+          "audio_rel_path": "1767396618/chunk_1_0.mp3"
+        },
+        {
+          "cantonese": "忙",
+          "english": "busy",
+          "jyutping": "mong4",
+          "audio_rel_path": "1767396618/chunk_1_1.mp3"
+        },
+        {
+          "cantonese": "唔",
+          "english": "not",
+          "jyutping": "m4",
+          "audio_rel_path": "1767396618/chunk_1_2.mp3"
+        },
+        {
+          "cantonese": "忙",
+          "english": "busy",
+          "jyutping": "mong4",
+          "audio_rel_path": "1767396618/chunk_1_3.mp3"
+        },
+        {
+          "cantonese": "呀",
+          "english": "(seeking confirmation)",
+          "jyutping": "aa4",
+          "audio_rel_path": "1767396618/chunk_1_4.mp3"
+        }
+      ],
+      "jyutping": "gam3mong4 m4 mong4 aa4 None",
+      "audio_rel_path": "1767396618/sent_1.mp3"
+    },
+    {
+      "id": 2,
+      "speaker": "A",
+      "cantonese": "梗係忙啦，大約見咗四十個病人。",
+      "english_natural": "Of course, I was busy. I saw about forty patients.",
+      "chunks": [
+        {
+          "cantonese": "梗係",
+          "english": "of course",
+          "jyutping": "gang2hai6",
+          "audio_rel_path": "1767396618/chunk_2_0.mp3"
+        },
+        {
+          "cantonese": "忙",
+          "english": "busy",
+          "jyutping": "mong4",
+          "audio_rel_path": "1767396618/chunk_2_1.mp3"
+        },
+        {
+          "cantonese": "啦",
+          "english": "(emphasis)",
+          "jyutping": "la1",
+          "audio_rel_path": "1767396618/chunk_2_2.mp3"
+        },
+        {
+          "cantonese": "大約",
+          "english": "about",
+          "jyutping": "daai6joek3",
+          "audio_rel_path": "1767396618/chunk_2_3.mp3"
+        },
+        {
+          "cantonese": "見咗",
+          "english": "saw",
+          "jyutping": "gin3 zo2",
+          "audio_rel_path": "1767396618/chunk_2_4.mp3"
+        },
+        {
+          "cantonese": "四十",
+          "english": "forty",
+          "jyutping": "sei3sap6",
+          "audio_rel_path": "1767396618/chunk_2_5.mp3"
+        },
+        {
+          "cantonese": "個",
+          "english": "CL",
+          "jyutping": "go3",
+          "audio_rel_path": "1767396618/chunk_2_6.mp3"
+        },
+        {
+          "cantonese": "病人",
+          "english": "patients",
+          "jyutping": "beng6jan4",
+          "audio_rel_path": "1767396618/chunk_2_7.mp3"
+        },
+        {
+          "cantonese": "。",
+          "english": "(period)",
+          "jyutping": "None",
+          "audio_rel_path": "1767396618/chunk_2_8.mp3"
+        }
+      ],
+      "jyutping": "gang2hai6 mong4 la1 None daai6joek3 gin3 zo2 sei3sap6 go3 beng6jan4 None",
+      "audio_rel_path": "1767396618/sent_2.mp3"
+    },
+    {
+      "id": 3,
+      "speaker": "B",
+      "cantonese": "嘩，咁犀利！你休息咗未呀？",
+      "english_natural": "Wow, that's impressive! Have you rested yet?",
+      "chunks": [
+        {
+          "cantonese": "嘩",
+          "english": "wow",
+          "jyutping": "waa3",
+          "audio_rel_path": "1767396618/chunk_3_0.mp3"
+        },
+        {
+          "cantonese": "，",
+          "english": "(comma)",
+          "jyutping": "None",
+          "audio_rel_path": "1767396618/chunk_3_1.mp3"
+        },
+        {
+          "cantonese": "咁",
+          "english": "that",
+          "jyutping": "gam3",
+          "audio_rel_path": "1767396618/chunk_3_2.mp3"
+        },
+        {
+          "cantonese": "犀利",
+          "english": "impressive",
+          "jyutping": "sai1lei6",
+          "audio_rel_path": "1767396618/chunk_3_3.mp3"
+        },
+        {
+          "cantonese": "！",
+          "english": "(exclamation)",
+          "jyutping": "None",
+          "audio_rel_path": "1767396618/chunk_3_4.mp3"
+        },
+        {
+          "cantonese": "你",
+          "english": "you",
+          "jyutping": "nei5",
+          "audio_rel_path": "1767396618/chunk_3_5.mp3"
+        },
+        {
+          "cantonese": "休息",
+          "english": "rested",
+          "jyutping": "jau1sik1",
+          "audio_rel_path": "1767396618/chunk_3_6.mp3"
+        },
+        {
+          "cantonese": "咗",
+          "english": "have",
+          "jyutping": "zo2",
+          "audio_rel_path": "1767396618/chunk_3_7.mp3"
+        },
+        {
+          "cantonese": "未",
+          "english": "yet",
+          "jyutping": "mei6",
+          "audio_rel_path": "1767396618/chunk_3_8.mp3"
+        },
+        {
+          "cantonese": "呀",
+          "english": "(seeking confirmation)",
+          "jyutping": "aa4",
+          "audio_rel_path": "1767396618/chunk_3_9.mp3"
+        }
+      ],
+      "jyutping": "waa3 None gam3sai1lei6 None nei5 jau1sik1 zo2 mei6 aa4 None",
+      "audio_rel_path": "1767396618/sent_3.mp3"
+    },
+    {
+      "id": 4,
+      "speaker": "A",
+      "cantonese": "而家先啱啱得閒呢。",
+      "english_natural": "Just got some free time now.",
+      "chunks": [
+        {
+          "cantonese": "而家",
+          "english": "now",
+          "jyutping": "ji4gaa1",
+          "audio_rel_path": "1767396618/chunk_4_0.mp3"
+        },
+        {
+          "cantonese": "先",
+          "english": "just",
+          "jyutping": "sin1",
+          "audio_rel_path": "1767396618/chunk_4_1.mp3"
+        },
+        {
+          "cantonese": "啱啱",
+          "english": "just now",
+          "jyutping": "ngaam1ngaam1",
+          "audio_rel_path": "1767396618/chunk_4_2.mp3"
+        },
+        {
+          "cantonese": "得閒",
+          "english": "got free time",
+          "jyutping": "dak1haan4",
+          "audio_rel_path": "1767396618/chunk_4_3.mp3"
+        },
+        {
+          "cantonese": "呢",
+          "english": "(indicates current state)",
+          "jyutping": "ne1",
+          "audio_rel_path": "1767396618/chunk_4_4.mp3"
+        }
+      ],
+      "jyutping": "ji4gaa1 sin1ngaam1 aam1 dak1haan4 ne1 None",
+      "audio_rel_path": "1767396618/sent_4.mp3"
+    },
+    {
+      "id": 5,
+      "speaker": "B",
+      "cantonese": "咁你快啲去食啲嘢啦。",
+      "english_natural": "Then quickly go eat something.",
+      "chunks": [
+        {
+          "cantonese": "咁",
+          "english": "then",
+          "jyutping": "gam3",
+          "audio_rel_path": "1767396618/chunk_5_0.mp3"
+        },
+        {
+          "cantonese": "你",
+          "english": "you",
+          "jyutping": "nei5",
+          "audio_rel_path": "1767396618/chunk_5_1.mp3"
+        },
+        {
+          "cantonese": "快啲",
+          "english": "quickly",
+          "jyutping": "faai3 di1",
+          "audio_rel_path": "1767396618/chunk_5_2.mp3"
+        },
+        {
+          "cantonese": "去",
+          "english": "go",
+          "jyutping": "heoi3",
+          "audio_rel_path": "1767396618/chunk_5_3.mp3"
+        },
+        {
+          "cantonese": "食",
+          "english": "eat",
+          "jyutping": "sik6",
+          "audio_rel_path": "1767396618/chunk_5_4.mp3"
+        },
+        {
+          "cantonese": "啲",
+          "english": "some",
+          "jyutping": "di1",
+          "audio_rel_path": "1767396618/chunk_5_5.mp3"
+        },
+        {
+          "cantonese": "嘢",
+          "english": "thing",
+          "jyutping": "je5",
+          "audio_rel_path": "1767396618/chunk_5_6.mp3"
+        },
+        {
+          "cantonese": "啦",
+          "english": "(giving advice)",
+          "jyutping": "la1",
+          "audio_rel_path": "1767396618/chunk_5_7.mp3"
+        }
+      ],
+      "jyutping": "gam3 nei5 faai3 di1 heoi3sik6 di1 je5 la1 None",
+      "audio_rel_path": "1767396618/sent_5.mp3"
+    }
+  ],
+  "id": "1767396618"
+}
